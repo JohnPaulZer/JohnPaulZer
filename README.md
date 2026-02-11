@@ -61,10 +61,6 @@ I am a passionate **Information Technology student** and **Web Developer** from 
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
+
