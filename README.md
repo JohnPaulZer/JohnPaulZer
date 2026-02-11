@@ -6,11 +6,10 @@
   <h3>🚀 Aspiring Web Developer & IT Student</h3>
 </div>
 
----
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6MGZueDF0cXpuYnZqdHg4dXUwcWQzNjY5ZHU0ZHl0amx0bG0zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" alt="Coding Meme">
 </p>
+---
 
 ### 👋 About Me
 
