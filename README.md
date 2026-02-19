@@ -1,268 +1,337 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=200&section=header&text=JohnPaulZer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- HEADER -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <!-- TYPING ANIMATION -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:161b22,100:0d1117&height=220&section=header&text=John%20Paul%20Zer&fontSize=48&fontAlignY=32&animation=fadeIn&fontColor=58a6ff&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=15&descAlignY=52&descColor=8b949e" width="100%" />
+
+  <!-- TYPING SVG -->
   <a href="https://github.com/JohnPaulZer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD93D&center=true&vCenter=true&width=750&lines=%F0%9F%87%B5%F0%9F%87%AD+Pinoy+MERN+Stack+Developer;console.log(%22WHY+WON'T+YOU+WORK%22);More+bugs+than+a+wet+season+night;Powered+by+Kopiko+78+and+prayers;git+push+--force+and+leave+it+to+God;My+code+works+...+sometimes+...+on+Thursdays" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Student+Developer;Building+with+the+MERN+Stack;Powered+by+coffee+and+prayers;Deploying+on+Fridays+since+2022;My+code+works+...+I+just+don't+know+why" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- MAIN CODING GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55%" alt="coding chaos" />
-  <br>
-  <i>Actual footage of my code working on the first try (this has never happened, not even once)</i>
-
-  <br><br>
-
-  <!-- ABOUT ME -->
-  <h2>🧑‍💻 Who Is This Guy?</h2>
-
-  <p>
-    <i>"Not every error is a bug — sometimes it's a feature you haven't understood yet."</i><br><br>
-    An aspiring developer who spends more time on Stack Overflow than on the actual IDE.<br>
-    Building with the <b>MERN Stack</b> — which honestly stands for<br>
-    <b>M</b>any <b>E</b>rrors <b>R</b>ight <b>N</b>ow.<br><br>
-    Dream: Deploy something without anyone crying.
-  </p>
-
-  <br>
-
-  <!-- PAIR PROGRAMMER -->
-  <h3>🤖 My Real Pair Programmer</h3>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45%" alt="cat typing" />
-  <br>
-  <i>My cat — more productive than me while coding. At least one of us is getting things done.</i>
-
-  <br><br>
-
-  <!-- STATUS PANEL -->
-  <h3>🚦 What's Happening In My Life Right Now</h3>
-
-  <table>
-    <tr>
-      <td>🔭 <b>Currently learning</b></td>
-      <td>MERN Stack (MongoDB, Express, React, Node) — all the suffering in one bundle</td>
-    </tr>
-    <tr>
-      <td>🧠 <b>Mental state</b></td>
-      <td><code>useEffect</code> but no effect on my career whatsoever</td>
-    </tr>
-    <tr>
-      <td>☕ <b>Fuel</b></td>
-      <td>Kopiko 78°C, Skyflakes, and existential dread</td>
-    </tr>
-    <tr>
-      <td>⚡ <b>Superpower</b></td>
-      <td>Googling error messages faster than a Grab rider in EDSA</td>
-    </tr>
-    <tr>
-      <td>🐛 <b>Debug strategy</b></td>
-      <td><code>console.log("IS THIS RIGHT")</code> → <code>console.log("PLEASE")</code> → <code>console.log("LORD WHY")</code></td>
-    </tr>
-    <tr>
-      <td>🏠 <b>WFH setup</b></td>
-      <td>Laptop on the bed, pillow as mousepad, electric fan pretending to be aircon</td>
-    </tr>
-    <tr>
-      <td>🎯 <b>Life goal</b></td>
-      <td>Deploy without using <code>--force</code> and without making anyone angry</td>
-    </tr>
-    <tr>
-      <td>💀 <b>Biggest fear</b></td>
-      <td>Merge conflict on a Friday at 5PM</td>
-    </tr>
-    <tr>
-      <td>🤝 <b>Collaborators</b></td>
-      <td>ChatGPT, Copilot, and that one classmate who lets me copy</td>
-    </tr>
-    <tr>
-      <td>🍳 <b>Side quest</b></td>
-      <td>Convincing my parents that "developer" is a real job</td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- THIS IS FINE -->
-  <h3>🔥 When There's A Bug In Production</h3>
-  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="45%" alt="this is fine" />
-  <br>
-  <i>"It's fine. Push it. Leave it to God. And to Batman. And to Stack Overflow."</i>
-
-  <br><br>
-
-  <!-- OVERTIME GIF -->
-  <h3>🌙 When You Work Overtime For A Bug You Wrote Yourself</h3>
-  <img src="https://media.giphy.com/media/l1KVaj5UcbHwrBMqI/giphy.gif" width="45%" alt="overtime" />
-  <br>
-  <i>"WHO WROTE THIS?!" → <code>git blame</code> → it was me all along. 🤡<br>
-  The call was coming from inside the house.</i>
-
-  <br><br>
-
-  <!-- TOOLBOX -->
-  <h3>🛠 My Weapons (a.k.a. The Arsenal)</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,html,css,js,git,github,vscode,postman&perline=6" />
+  <!-- BADGES ROW -->
+  <a href="https://github.com/JohnPaulZer?tab=followers">
+    <img src="https://img.shields.io/github/followers/JohnPaulZer?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=161b22" alt="followers" />
   </a>
-  <p><i>(I know both Java and JavaScript. I just really enjoy being confused every single day.)</i></p>
-
-  <br>
-
-  <!-- DEBUGGING GIF -->
-  <h3>🔧 How I Actually Fix Bugs</h3>
-  <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="40%" alt="smash keyboard" />
-  <br>
-  <i>Step 1: Delete the code<br>
-  Step 2: Type the exact same code again<br>
-  Step 3: It works now??? I changed NOTHING??? 🤯<br>
-  Step 4: Don't touch it. DON'T YOU DARE TOUCH IT.</i>
-
-  <br><br>
-
-  <!-- MY CODE WORKS GIF -->
-  <h3>🎉 When The Code Works On The First Run</h3>
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="45%" alt="celebration" />
-  <br>
-  <i>I don't know why it works. I'm scared to touch it.<br>
-  Already took a screenshot as proof it worked at least once in my lifetime.</i>
-
-  <br><br>
-
-  <!-- CODE REVIEW GIF -->
-  <h3>👀 When The Senior Dev Reviews My Code</h3>
-  <img src="https://media.giphy.com/media/LRVnPYqM8DLag/giphy.gif" width="40%" alt="nervous" />
-  <br>
-  <i>"Sir, it works though... sometimes. When the stars align. Mostly on Thursdays."</i>
-
-  <br><br>
-
-  <!-- STACKOVERFLOW GIF -->
-  <h3>📚 When Stack Overflow Goes Down</h3>
-  <img src="https://media.giphy.com/media/HUkOv6BNWc1HO/giphy.gif" width="40%" alt="panic" />
-  <br>
-  <i>"My entire career just vanished in an instant. It's over. Pack it up.<br>
-  Time to sell fishballs in front of the school."</i>
-
-  <br><br>
-
-  <!-- DEPLOY FRIDAY GIF -->
-  <h3>🚀 When You Deploy On A Friday At 5PM</h3>
-  <img src="https://media.giphy.com/media/3oEjHB1EKuujDvYl20/giphy.gif" width="40%" alt="explosion" />
-  <br>
-  <i>"YOLO deploy. That's a Monday problem now. Weekend first."<br>
-  <b>Narrator:</b> It did not become a Monday problem. It became a Saturday 3AM problem.</i>
-
-  <br><br>
-
-  <!-- BROWNOUT GIF -->
-  <h3>💡 When The Power Goes Out Mid-Code And You Didn't Save</h3>
-  <img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="40%" alt="darkness" />
-  <br>
-  <i>"200 lines of code. Gone. Just like my will to live.<br>
-  Ctrl+S was RIGHT THERE and I still didn't press it."</i>
-
-  <br><br>
-
-  <!-- GIT SECTION -->
-  <h3>📂 My Git Workflow (Do Not Follow This)</h3>
-  <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="40%" alt="explosion" />
-  <br>
-
-  ```
-  git add .
-  git commit -m "it didn't work before but now it does don't ask me why"
-  git push --force  # leave it to God
-  # when there's a conflict: git stash → git pull → cry → git stash pop
-  ```
-
-  <i>"Merge conflict? Delete the branch. Start over. Nobody saw anything. Nobody admits anything."</i>
-
-  <br><br>
-
-  <!-- CLIENT GIF -->
-  <h3>🧑‍💼 When The Client Says "Small Change Lang"</h3>
-  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="40%" alt="nervous laughter" />
-  <br>
-  <i>"Small change" = rebuild the entire frontend from scratch<br>
-  "Can you make it pop?" = I am going to cry in the CR</i>
-
-  <br><br>
-
-  <!-- REAL-TIME STATS -->
-  <h3>📊 My Stats (Please Don't Judge)</h3>
-
-  <a href="https://github.com/JohnPaulZer">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnPaulZer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD93D&icon_color=FF6B6B" alt="stats" />
+  &nbsp;
+  <a href="https://github.com/JohnPaulZer?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-9-161b22?style=flat&logo=github&logoColor=white&labelColor=0d1117" alt="repos" />
   </a>
-
-  <a href="https://github.com/JohnPaulZer">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulZer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD93D" alt="top langs" />
-  </a>
-
-  <br><br>
-
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPaulZer&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD93D&fire=FF6B6B&currStreakLabel=FFD93D" alt="streak stats" />
-
-  <br><br>
-
-  <!-- ACTIVITY GRAPH -->
-  <a href="https://github.com/JohnPaulZer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnPaulZer&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=FFD93D&point=FF6B6B" alt="activity graph" />
-  </a>
-
-  <br><br>
-
-  <!-- TROPHIES -->
-  <h3>🏆 Trophies (So My Mom Knows I'm Doing Something)</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JohnPaulZer&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-  </a>
-
-  <br><br>
-
-  <!-- VISITOR COUNTER -->
-  <h3>👀 Visitors (Are You A Recruiter??? Please Hire Me)</h3>
-  <img src="https://komarev.com/ghpvc/?username=JohnPaulZer&style=for-the-badge&color=FFD93D&label=PROFILE+VIEWS" alt="profile views" />
-
-  <br><br>
-
-  <!-- RANDOM DEV QUOTE -->
-  <h3>💬 Random Dev Quote For Motivation (We Need It)</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-
-  <br><br>
-
-  <!-- CONTRIBUTION SNAKE -->
-  <h3>🐍 Snake Eating My Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/github-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/github-snake.svg" />
-  </picture>
-  <br>
-  <i>⬆️ If the snake isn't showing, set up the <a href="https://github.com/Platane/snk">Snake GitHub Action</a> below first.</i>
-
-  <br><br>
-
-  <!-- CLOSING -->
-  <h3>🫡 Thanks For Visiting!</h3>
-  <img src="https://media.giphy.com/media/42D3CxaINsAFemFuId/giphy.gif" width="45%" alt="bye" />
-  <br><br>
-  <i>
-    "If your app crashes, don't blame the code —<br>
-    blame yourself for deploying on a Friday at 5PM<br>
-    and then leaving like nothing happened."<br><br>
-    <b>— JohnPaulZer, crying in front of VS Code since day one</b>
-  </i>
-
-  <br><br>
-
-  <!-- FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BCB77,50:FFD93D,100:FF6B6B&height=120&section=footer" width="100%" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=JohnPaulZer&style=flat&color=161b22&labelColor=0d1117&label=Visitors" alt="profile views" />
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- ABOUT ME -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> &nbsp;About Me
+
+```yaml
+name: John Paul Zer
+location: Philippines 🇵🇭
+role: Student & Aspiring Full-Stack Developer
+education: Currently studying
+
+currently_building:
+  - "Tasked & Confused — a full-stack task manager"
+  - "Because my own life is unmanaged"
+
+currently_learning:
+  - React + TypeScript
+  - Node.js + Express
+  - MongoDB
+
+coffee_consumed_today: "yes"
+bugs_fixed_today: 3
+bugs_created_today: 7
+
+motto: >
+  "It works on my machine"
+  is a valid deployment strategy
+```
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;Quick Facts
+
+- 🔭 Working on [**Tasked-Confused**](https://github.com/JohnPaulZer/Tasked-Confused-Frontend) — a full-stack app
+- 🌱 Learning **React**, **TypeScript**, **Node.js**, **MongoDB**
+- ☕ Fuel: Kopiko 78°C and existential dread
+- ⚡ Superpower: Googling errors faster than a Grab rider on EDSA
+- 🐛 Debug strategy: `console.log("LORD WHY")`
+- 🏠 Setup: Laptop on the bed, pillow as mousepad
+- 🎯 Goal: Deploy without `--force` and without crying
+- 💀 Fear: Merge conflict on Friday at 5PM
+- 🍳 Side quest: Convincing my parents "developer" is a real job
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- TECH STACK -->
+<div align="center">
+
+### 🛠 Tech Stack
+
+<!-- Languages -->
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</a>
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</a>
+<a href="https://www.php.net/">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</a>
+</details>
+
+<!-- Frameworks -->
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</a>
+</details>
+
+<!-- Database -->
+<details open>
+<summary><b>Database</b></summary>
+<br>
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
+</details>
+
+<!-- Tools -->
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+<br>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://github.com/JohnPaulZer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</a>
+</details>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+### 📌 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://github.com/JohnPaulZer/Tasked-Confused-Frontend">🎨 Tasked & Confused — Frontend</a></h3>
+  <p align="center">
+    <a href="https://github.com/JohnPaulZer/Tasked-Confused-Frontend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://github.com/JohnPaulZer/Tasked-Confused-Backend">⚙️ Tasked & Confused — Backend</a></h3>
+  <p align="center">
+    <a href="https://github.com/JohnPaulZer/Tasked-Confused-Backend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://github.com/JohnPaulZer/projects">☕ Java Projects</a></h3>
+  <p align="center">
+    <a href="https://github.com/JohnPaulZer/projects">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://github.com/JohnPaulZer/gcashapi">💸 GCash API</a></h3>
+  <p align="center">
+    <a href="https://github.com/JohnPaulZer/gcashapi">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=gcashapi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=fastapi&logoColor=white" />
+  </p>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- GITHUB STATS -->
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<br>
+
+<!-- Stats Card -->
+<a href="https://github.com/JohnPaulZer">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnPaulZer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+</a>
+&nbsp;&nbsp;
+<!-- Top Languages -->
+<a href="https://github.com/JohnPaulZer">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulZer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
+
+<br><br>
+
+<!-- Streak Stats -->
+<a href="https://github.com/JohnPaulZer">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPaulZer&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+</a>
+
+<br><br>
+
+<!-- Activity Graph -->
+<a href="https://github.com/JohnPaulZer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnPaulZer&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="95%" alt="activity graph" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- TROPHIES -->
+<div align="center">
+
+### 🏆 Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnPaulZer&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- SNAKE -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/JohnPaulZer/JohnPaulZer/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>⬆️ Set up the <a href="https://github.com/Platane/snk">Snake GitHub Action</a> to activate this animation</sub>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<!-- QUOTE + CONNECT -->
+<div align="center">
+
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+
+<br><br>
+
+### 🤝 Let's Connect
+
+<a href="https://github.com/JohnPaulZer">
+  <img src="https://img.shields.io/badge/GitHub-JohnPaulZer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<!-- 
+  ━━━ UNCOMMENT & ADD YOUR LINKS BELOW ━━━
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://facebook.com/YOUR-FACEBOOK">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://your-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+-->
+
+<br><br>
+
+<sub>
+  <i>"If it works, don't touch it. If it doesn't, delete everything and start over.<br>
+  That's not a joke — that's my actual workflow."</i><br><br>
+  — <b>JohnPaulZer</b>, somewhere in the Philippines, debugging at 2AM with an electric fan on max
+</sub>
+
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:161b22,100:0d1117&height=120&section=footer" width="100%" />
