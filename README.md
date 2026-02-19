@@ -4,30 +4,30 @@
   <!-- HEADER -->
   <!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:161b22,100:0d1117&height=220&section=header&text=John%20Paul%20Zer&fontSize=48&fontAlignY=32&animation=fadeIn&fontColor=58a6ff&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=15&descAlignY=52&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:1a1a2e,100:000000&height=220&section=header&text=John%20Paul%20Zer&fontSize=48&fontAlignY=32&animation=fadeIn&fontColor=9b59b6&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=15&descAlignY=52&descColor=ffffff" width="100%" />
 
   <!-- TYPING SVG -->
   <a href="https://github.com/JohnPaulZer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Student+Developer;Building+with+the+MERN+Stack;Powered+by+coffee+and+prayers;Deploying+on+Fridays+since+2022;My+code+works+...+I+just+don't+know+why" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=550&lines=Full-Stack+Student+Developer;Building+with+the+MERN+Stack;Powered+by+coffee+and+prayers;Deploying+on+Fridays+since+2022;My+code+works+...+I+just+don't+know+why" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <!-- BADGES ROW -->
   <a href="https://github.com/JohnPaulZer?tab=followers">
-    <img src="https://img.shields.io/github/followers/JohnPaulZer?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=161b22" alt="followers" />
+    <img src="https://img.shields.io/github/followers/JohnPaulZer?style=flat&logo=github&logoColor=white&labelColor=000000&color=9b59b6" alt="followers" />
   </a>
   &nbsp;
   <a href="https://github.com/JohnPaulZer?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-9-161b22?style=flat&logo=github&logoColor=white&labelColor=0d1117" alt="repos" />
+    <img src="https://img.shields.io/badge/Repos-9-9b59b6?style=flat&logo=github&logoColor=white&labelColor=000000" alt="repos" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JohnPaulZer&style=flat&color=161b22&labelColor=0d1117&label=Visitors" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JohnPaulZer&style=flat&color=9b59b6&labelColor=000000&label=Visitors" alt="profile views" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- ABOUT ME -->
 <table>
@@ -80,7 +80,7 @@ motto: >
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- TECH STACK -->
 <div align="center">
@@ -156,7 +156,7 @@ motto: >
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
@@ -171,7 +171,7 @@ motto: >
   <h3 align="center"><a href="https://github.com/JohnPaulZer/Tasked-Confused-Frontend">🎨 Tasked & Confused — Frontend</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/Tasked-Confused-Frontend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Frontend&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
     </a>
   </p>
   <p align="center">
@@ -183,7 +183,7 @@ motto: >
   <h3 align="center"><a href="https://github.com/JohnPaulZer/Tasked-Confused-Backend">⚙️ Tasked & Confused — Backend</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/Tasked-Confused-Backend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Backend&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
     </a>
   </p>
   <p align="center">
@@ -197,7 +197,7 @@ motto: >
   <h3 align="center"><a href="https://github.com/JohnPaulZer/projects">☕ Java Projects</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=projects&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=projects&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
     </a>
   </p>
   <p align="center">
@@ -208,7 +208,7 @@ motto: >
   <h3 align="center"><a href="https://github.com/JohnPaulZer/gcashapi">💸 GCash API</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/gcashapi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=gcashapi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=gcashapi&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
     </a>
   </p>
   <p align="center">
@@ -219,7 +219,7 @@ motto: >
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- GITHUB STATS -->
 <div align="center">
@@ -230,32 +230,32 @@ motto: >
 
 <!-- Stats Card -->
 <a href="https://github.com/JohnPaulZer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnPaulZer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnPaulZer&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&rank_icon=github" />
 </a>
 &nbsp;&nbsp;
 <!-- Top Languages -->
 <a href="https://github.com/JohnPaulZer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulZer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulZer&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff&langs_count=8" />
 </a>
 
 <br><br>
 
 <!-- Streak Stats -->
 <a href="https://github.com/JohnPaulZer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPaulZer&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPaulZer&theme=github-dark-blue&hide_border=true&background=000000&stroke=1a1a2e&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
 </a>
 
 <br><br>
 
 <!-- Activity Graph -->
 <a href="https://github.com/JohnPaulZer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnPaulZer&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnPaulZer&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=9b59b6&point=9b59b6&area=true&area_color=9b59b6" width="95%" alt="activity graph" />
 </a>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- TROPHIES -->
 <div align="center">
@@ -269,7 +269,7 @@ motto: >
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- SNAKE -->
 <div align="center">
@@ -287,7 +287,7 @@ motto: >
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 
 <!-- QUOTE + CONNECT -->
 <div align="center">
@@ -301,7 +301,7 @@ motto: >
 ### 🤝 Let's Connect
 
 <a href="https://github.com/JohnPaulZer">
-  <img src="https://img.shields.io/badge/GitHub-JohnPaulZer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-JohnPaulZer-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <!-- 
@@ -334,4 +334,4 @@ motto: >
 <br>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:1a1a2e,100:000000&height=120&section=footer" width="100%" />
