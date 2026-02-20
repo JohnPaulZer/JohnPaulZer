@@ -1,35 +1,40 @@
 <div align="center">
 
   <!-- ═══════════════════════════════════════════════════════════════ -->
-  <!-- HEADER -->
+  <!-- MESH GRADIENT HEADER -->
   <!-- ═══════════════════════════════════════════════════════════════ -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:1a1a2e,100:000000&height=220&section=header&text=John%20Paul%20Zer&fontSize=48&fontAlignY=32&animation=fadeIn&fontColor=9b59b6&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=15&descAlignY=52&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,15:1a0a2e,30:2d1b69,50:5b21b6,70:2d1b69,85:1a0a2e,100:0d0d0d&height=230&section=header&text=John%20Paul%20Zer&fontSize=50&fontAlignY=30&animation=fadeIn&fontColor=c084fc&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descSize=16&descAlignY=52&descColor=e2e8f0" width="100%" />
 
   <!-- TYPING SVG -->
   <a href="https://github.com/JohnPaulZer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=550&lines=Full-Stack+Student+Developer;Building+with+the+MERN+Stack;Powered+by+coffee+and+prayers;Deploying+on+Fridays+since+2022;My+code+works+...+I+just+don't+know+why" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=620&lines=React+%2B+TypeScript+%2B+Tailwind+on+the+front;Express+%2B+MongoDB+%2B+JWT+on+the+back;Shipping+features+and+occasionally+shipping+bugs;My+code+compiles+%E2%80%94+we+celebrate+that+here" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- BADGES ROW -->
+  <!-- BADGES -->
   <a href="https://github.com/JohnPaulZer?tab=followers">
-    <img src="https://img.shields.io/github/followers/JohnPaulZer?style=flat&logo=github&logoColor=white&labelColor=000000&color=9b59b6" alt="followers" />
+    <img src="https://img.shields.io/github/followers/JohnPaulZer?style=flat&logo=github&logoColor=white&labelColor=0d0d0d&color=7c3aed" alt="followers" />
   </a>
   &nbsp;
   <a href="https://github.com/JohnPaulZer?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-9-9b59b6?style=flat&logo=github&logoColor=white&labelColor=000000" alt="repos" />
+    <img src="https://img.shields.io/badge/Public_Repos-9-7c3aed?style=flat&logo=github&logoColor=white&labelColor=0d0d0d" alt="repos" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JohnPaulZer&style=flat&color=9b59b6&labelColor=000000&label=Visitors" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JohnPaulZer&style=flat&color=7c3aed&labelColor=0d0d0d&label=Profile+Views" alt="profile views" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- MESH GRADIENT DIVIDER — "ZOOM REVEAL" EFFECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -39,25 +44,20 @@
 ```yaml
 name: John Paul Zer
 location: Philippines 🇵🇭
-role: Student & Aspiring Full-Stack Developer
+role: Student & Full-Stack Developer (in progress)
 education: Currently studying
 
 currently_building:
-  - "Tasked & Confused — a full-stack task manager"
-  - "Because my own life is unmanaged"
+  - "Tasked & Confused — full-stack task manager"
+  - "Because my own life needed a CRUD app"
 
-currently_learning:
-  - React + TypeScript
-  - Node.js + Express
-  - MongoDB
+stack:
+  frontend: React, TypeScript, Tailwind CSS, Zustand
+  backend: Express, MongoDB, Mongoose, JWT
+  tools: Vite, Postman, Git, VS Code
 
-coffee_consumed_today: "yes"
-bugs_fixed_today: 3
-bugs_created_today: 7
-
-motto: >
-  "It works on my machine"
-  is a valid deployment strategy
+coffee_status: "always yes"
+deployment_strategy: "prayer-driven development"
 ```
 
 </td>
@@ -65,105 +65,116 @@ motto: >
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;Quick Facts
 
-- 🔭 Working on [**Tasked-Confused**](https://github.com/JohnPaulZer/Tasked-Confused-Frontend) — a full-stack app
-- 🌱 Learning **React**, **TypeScript**, **Node.js**, **MongoDB**
-- ☕ Fuel: Kopiko 78°C and existential dread
-- ⚡ Superpower: Googling errors faster than a Grab rider on EDSA
-- 🐛 Debug strategy: `console.log("LORD WHY")`
-- 🏠 Setup: Laptop on the bed, pillow as mousepad
-- 🎯 Goal: Deploy without `--force` and without crying
-- 💀 Fear: Merge conflict on Friday at 5PM
-- 🍳 Side quest: Convincing my parents "developer" is a real job
+- 🔭 Building [**Tasked & Confused**](https://github.com/JohnPaulZer/Tasked-Confused-Frontend) — React + Express + MongoDB
+- 🌱 Currently learning **authentication flows**, **state management**, and **not naming variables `x`**
+- ☕ Powered by Kopiko 78°C and well-placed `console.log` statements
+- ⚡ Superpower: Googling error messages faster than a Grab rider on EDSA
+- 🛡️ Backend philosophy: If it doesn't have `helmet`, `cors`, and `rate-limit`, it's not production
+- 🐛 Debug strategy: `console.log("BAKIT GANITO")`
+- 🎯 2026 Goal: Deploy to production without `--force` pushing
+- 💀 Worst fear: Merge conflict at 5PM on a Friday
+- 🧠 Life lesson: `git stash` has saved more relationships than therapy
 
 </td>
 </tr>
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- CODING GIF + WITTY TEXT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHE1MmI5cmpzaXR6bHo4ZWJnMGFvenBwbmQ4ajh4bXpoc3E5czg0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif" width="400" alt="coding at night" />
+  <br><br>
+  <sub><i>Live footage of me fixing a "small CSS bug" that somehow broke authentication, <br>the database connection, and my will to live — all at 2AM.</i></sub>
+  <br><br>
+</div>
+
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🛠 Tech Stack
 
+<br>
+
+<!-- SPOTLIGHT REVEAL BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,50:5b21b6,100:1a0a2e&height=35&text=What%20I%20Work%20With&fontSize=14&fontColor=e2e8f0&animation=twinkling" width="60%">
+
+<br><br>
+
 <!-- Languages -->
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>💬 Languages</b></summary>
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</a>
-<a href="https://www.java.com/">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</a>
-<a href="https://www.php.net/">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </details>
 
-<!-- Frameworks -->
+<!-- Frontend -->
 <details open>
-<summary><b>Frameworks & Libraries</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br>
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</a>
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </details>
 
-<!-- Database -->
+<!-- Backend -->
 <details open>
-<summary><b>Database</b></summary>
+<summary><b>⚙️ Backend</b></summary>
 <br>
-<a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express_5-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Nodemailer" />
 </details>
 
 <!-- Tools -->
 <details open>
-<summary><b>Tools & Platforms</b></summary>
+<summary><b>🔧 Tools & Platforms</b></summary>
 <br>
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://github.com/JohnPaulZer">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</a>
-<a href="https://www.postman.com/">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 </details>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
 
-<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS — FROM REPOS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
+
+<!-- SPOTLIGHT BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,50:5b21b6,100:1a0a2e&height=35&text=Pinned%20Repositories&fontSize=14&fontColor=e2e8f0&animation=twinkling" width="60%">
 
 </div>
+
+<br>
 
 <table>
 <tr>
@@ -171,25 +182,33 @@ motto: >
   <h3 align="center"><a href="https://github.com/JohnPaulZer/Tasked-Confused-Frontend">🎨 Tasked & Confused — Frontend</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/Tasked-Confused-Frontend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Frontend&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Frontend&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" width="100%" />
     </a>
   </p>
   <p align="center">
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   </p>
+  <p align="center"><sub>Task management UI with Framer Motion animations, Zustand state, and toast notifications. Because my to-do list needed its own SPA.</sub></p>
 </td>
 <td width="50%" valign="top">
   <h3 align="center"><a href="https://github.com/JohnPaulZer/Tasked-Confused-Backend">⚙️ Tasked & Confused — Backend</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/Tasked-Confused-Backend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Backend&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=Tasked-Confused-Backend&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" width="100%" />
     </a>
   </p>
   <p align="center">
+    <img src="https://img.shields.io/badge/Express_5-000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/Helmet-000?style=flat-square&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   </p>
+  <p align="center"><sub>REST API with auth (bcrypt + JWT), rate limiting, mongo sanitization, and email via Nodemailer. Security first, <code>console.log</code> second.</sub></p>
 </td>
 </tr>
 <tr>
@@ -197,67 +216,131 @@ motto: >
   <h3 align="center"><a href="https://github.com/JohnPaulZer/projects">☕ Java Projects</a></h3>
   <p align="center">
     <a href="https://github.com/JohnPaulZer/projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=projects&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=projects&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" width="100%" />
     </a>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </p>
+  <p align="center"><sub>Includes a Simple ATM Program — console-based banking simulation. Where my journey started, one <code>Scanner</code> at a time.</sub></p>
 </td>
 <td width="50%" valign="top">
-  <h3 align="center"><a href="https://github.com/JohnPaulZer/gcashapi">💸 GCash API</a></h3>
+  <h3 align="center"><a href="https://github.com/JohnPaulZer/PHP">🐘 PHP Experiments</a></h3>
   <p align="center">
-    <a href="https://github.com/JohnPaulZer/gcashapi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=gcashapi&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff" width="100%" />
+    <a href="https://github.com/JohnPaulZer/PHP">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPaulZer&repo=PHP&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0" width="100%" />
     </a>
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  </p>
+  <p align="center"><sub>Server-side scripting exercises. Proof that I survived PHP before moving to Node.</sub></p>
+</td>
+</tr>
+</table>
+
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- OTHER PROJECTS — NOT IN REPOS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📂 Other Projects
+
+<!-- SPOTLIGHT BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,50:5b21b6,100:1a0a2e&height=35&text=Built%20Outside%20GitHub&fontSize=14&fontColor=e2e8f0&animation=twinkling" width="60%">
+
+<br><br>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+  <img src="https://img.shields.io/badge/📚-Library_Management-7c3aed?style=for-the-badge&labelColor=0d0d0d" />
+  <br><br>
+  <p><b>Library Management System</b></p>
+  <p><sub>A system for managing book inventories, borrower records, and due-date tracking. Built to solve a real-world problem — or at least a school project that felt like one.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&labelColor=0d0d0d" />
+  </p>
+</td>
+<td width="33%" valign="top" align="center">
+  <img src="https://img.shields.io/badge/🤝-Tulong_Kabataan-7c3aed?style=for-the-badge&labelColor=0d0d0d" />
+  <br><br>
+  <p><b>Tulong Kabataan</b></p>
+  <p><sub>A community-focused platform designed to connect Filipino youth with local volunteer opportunities and civic engagement programs.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&labelColor=0d0d0d" />
+  </p>
+</td>
+<td width="33%" valign="top" align="center">
+  <img src="https://img.shields.io/badge/👕-Clothing_Website-7c3aed?style=for-the-badge&labelColor=0d0d0d" />
+  <br><br>
+  <p><b>Clothing E-Commerce Website</b></p>
+  <p><sub>A front-end clothing store with product browsing, cart functionality, and responsive design. My first taste of building something people would actually want to click on.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&labelColor=0d0d0d" />
   </p>
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 📊 GitHub Analytics
 
 <br>
 
+<!-- SPOTLIGHT BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,50:5b21b6,100:1a0a2e&height=35&text=The%20Numbers%20Don%27t%20Lie%20%E2%80%94%20But%20They%20Do%20Humble&fontSize=14&fontColor=e2e8f0&animation=twinkling" width="60%">
+
+<br><br>
+
 <!-- Stats Card -->
 <a href="https://github.com/JohnPaulZer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnPaulZer&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JohnPaulZer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" />
 </a>
 &nbsp;&nbsp;
 <!-- Top Languages -->
 <a href="https://github.com/JohnPaulZer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulZer&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulZer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=8" />
 </a>
 
 <br><br>
 
 <!-- Streak Stats -->
 <a href="https://github.com/JohnPaulZer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPaulZer&theme=github-dark-blue&hide_border=true&background=000000&stroke=1a1a2e&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnPaulZer&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=1a0a2e&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=888888" alt="streak" />
 </a>
 
 <br><br>
 
 <!-- Activity Graph -->
 <a href="https://github.com/JohnPaulZer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnPaulZer&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=9b59b6&point=9b59b6&area=true&area_color=9b59b6" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnPaulZer&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=e2e8f0&line=7c3aed&point=a78bfa&area=true&area_color=5b21b6" width="95%" alt="activity graph" />
 </a>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
 
+<!-- ═════════════════════════════════════��═════════════════════════ -->
 <!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🏆 Trophies
@@ -268,10 +351,13 @@ motto: >
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
 
-<!-- SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🐍 Contribution Snake
@@ -286,10 +372,13 @@ motto: >
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<!-- ZOOM-REVEAL GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:5b21b6,100:0d0d0d&height=2" width="100%">
 
-<!-- QUOTE + CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- DEV QUOTE + CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 💬 Random Dev Quote
@@ -301,37 +390,47 @@ motto: >
 ### 🤝 Let's Connect
 
 <a href="https://github.com/JohnPaulZer">
-  <img src="https://img.shields.io/badge/GitHub-JohnPaulZer-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-JohnPaulZer-0d0d0d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+&nbsp;
+<a href="mailto:johnpaulzer27@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-johnpaulzer27@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Gmail" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Portfolio — Coming Soon" />
 
 <!-- 
-  ━━━ UNCOMMENT & ADD YOUR LINKS BELOW ━━━
+  ━━━ WHEN YOUR PORTFOLIO IS LIVE, REPLACE THE BADGE ABOVE WITH THIS ━━━
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://facebook.com/YOUR-FACEBOOK">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://your-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://your-portfolio-url.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Portfolio" />
 </a>
 -->
 
 <br><br>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BOTTOM GIF — FAREWELL -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThrYzA0NTZ6NDFwMGl6Mnp2eDd0bjAyZHlyNWtzMjhudDRmZjY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif" width="200" alt="waving goodbye" />
+
+<br>
+
+<sub><i>Thanks for scrolling this far — you're now officially more patient than my code reviewer. <br>If you liked what you saw, star a repo. If you didn't, blame the CSS.</i></sub>
+
+<br><br>
+
 <sub>
-  <i>"If it works, don't touch it. If it doesn't, delete everything and start over.<br>
-  That's not a joke — that's my actual workflow."</i><br><br>
-  — <b>JohnPaulZer</b>, somewhere in the Philippines, debugging at 2AM with an electric fan on max
+  <i>"If it works, don't touch it. If it doesn't, <code>git stash</code> and pretend it never happened."</i><br><br>
+  — <b>JohnPaulZer</b>, debugging at 2AM with an electric fan on max and Stack Overflow as co-pilot
 </sub>
 
 </div>
 
 <br>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1a2e,50:16213e,75:1a1a2e,100:000000&height=120&section=footer" width="100%" />
+<!-- MESH GRADIENT FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,15:1a0a2e,30:2d1b69,50:5b21b6,70:2d1b69,85:1a0a2e,100:0d0d0d&height=120&section=footer" width="100%" />
